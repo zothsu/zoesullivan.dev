@@ -1,12 +1,12 @@
-title = 'My New Hugo Site'
-baseURL = "http://example.org/"
+title = 'Portfolio for Zoe Sullivan'
+baseURL = "https://zothsu.github.io/zoesullivan.dev/"
 defaultContentLanguage = "en"
 languageCode = "en"
 
 theme = "gokarna"
 
 # Automatically generate robots.txt
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 [menu]
   [[menu.main]]
